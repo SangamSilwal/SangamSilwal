@@ -14,6 +14,8 @@ I'm a passionate software developer and engineering student from Nepal 🇳🇵 
 - SQL/MongoDB
 
 ### 🌐 Web Development
+- FastApi/Django
+- Golang gin framework
 - Node.js (Express)
 - React.js
 - RESTful APIs
