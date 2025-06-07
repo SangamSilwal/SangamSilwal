@@ -1,7 +1,46 @@
+# 👋 Hi, I'm Sangam Silwal
 
+I'm a passionate software developer and engineering student from Nepal 🇳🇵 with a strong interest in full-stack development, systems programming, and open-source technologies. I love building scalable and efficient applications that solve real-world problems.
 
-<h1 align="center">Hi 👋, I'm Sangam Silwal</h1>
-<h3 align="center">A passionate software developer from Nepal with a deep love for working with datasets, uncovering insights, and making data-driven predictions.</h3>
+---
 
+## 🛠️ Skills & Technologies
 
-⭐ **Feel free to connect and collaborate!** 🚀
+### 💻 Programming Languages
+- Go (Golang)
+- TypeScript / JavaScript
+- Python
+- C / C++
+- SQL/MongoDB
+
+### 🌐 Web Development
+- Node.js (Express)
+- React.js
+- RESTful APIs
+- JWT & OAuth Authentication
+
+### ⚙️ Backend & Tools
+- MongoDB
+- PostgreSQL
+- Redis
+- Docker
+- Kubernetes (Learning)
+- Git & GitHub
+
+### 🧠 Areas of Interest
+- Backend Architecture
+- API Automation & Testing
+- DevOps & CI/CD
+- Cloud Infrastructure
+- System Design
+- Open Source Contribution
+
+---
+
+## 📫 Let's Connect
+
+- 📬 Email: sangamsilwal2062@example.com
+
+---
+
+_Always learning. Always building._
