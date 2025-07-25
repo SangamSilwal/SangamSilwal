@@ -83,12 +83,6 @@ JWT/OAuth2 implementation with rate limiting | Used in production by 3 startups
 
 ---
 
-## 📊 GitHub Stats
 
-![Sangam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sangam-silwal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangam-silwal&layout=compact&theme=radical)
-
----
 
 _🔭 On a mission to bridge the gap between software engineering and machine learning_
