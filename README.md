@@ -1,88 +1,38 @@
-# 👋 Hi, I'm Sangam Silwal
+# Hi, I'm Sangam
 
-**Machine Learning Engineer | Backend Developer | Open Source Contributor**  
-📍 From Nepal 🇳🇵 | 🚀 Building intelligent systems at the intersection of software engineering and AI
-
----
-
-## �‍💻 Technical Arsenal
-
-### 🤖 Machine Learning & AI
-- **ML Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **Deep Learning**: CNNs, RNNs, Transformers, GANs
-- **Computer Vision**: OpenCV, YOLO, Image Processing
-- **NLP**: BERT, GPT, Text Classification
-- **MLOps**: Model Serving, TensorFlow Serving, ONNX
-- **Feature Engineering & Model Optimization**
-
-### ⚙️ Backend Development
-- **Languages**: Go, Python, Node.js 
-- **Frameworks**: FastAPI, Gin, Express, Django
-- **Databases**: PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Architecture**: Microservices, Event-Driven, REST/gRPC
-- **DevOps**: Docker, Kubernetes, CI/CD Pipelines
-
-### 🛠️ Tools & Platforms
-- **Cloud**: AWS (SageMaker, EC2, Lambda), GCP
-- **ML Tools**: MLflow, Weights & Biases, Jupyter
-- **Monitoring**: Prometheus, Grafana
-- **Version Control**: Git, GitHub Actions
+I'm a passionate **Machine Learning** and **Deep Learning** enthusiast currently on a journey to master the art of building intelligent systems. I love exploring data, training models, and bringing AI solutions to life through hands-on projects.
+ 
+How to reach me: [sangamsilwal2062@gmail.com / sangambot360@gmail.com]  
 
 ---
 
-## 🔭 Current Focus
+## Tech Stack
 
-- Building end-to-end ML pipelines from data collection to deployment
-- Exploring transformer architectures for NLP tasks
-- Optimizing backend systems for ML model serving
-- Contributing to open-source ML projects
+### Machine Learning & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+### Backend Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 🏆 Projects Highlights
-
-### 🤖 ML/DL Projects
-**Nepali Text Classification**  
-Transformer-based model for Nepali NLP tasks with 92% accuracy | PyTorch, HuggingFace
-
-**Medical Image Segmentation**  
-U-Net architecture for tumor detection in MRI scans | TensorFlow, OpenCV
-
-**Stock Prediction Engine**  
-LSTM-based time series forecasting with sentiment analysis | TensorFlow, AlphaVantage API
-
-### ⚙️ Backend Projects
-**Distributed Task Queue**  
-Golang implementation with Redis backend | Benchmarked at 10k RPS
-
-**Real-time Analytics API**  
-Event-driven architecture with Kafka and Go | 5ms p99 latency
-
-**Auth Microservice**  
-JWT/OAuth2 implementation with rate limiting | Used in production by 3 startups
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📚 Learning Journey
-
-- **Currently Exploring**:
-  - LLM fine-tuning and deployment
-  - Kubernetes for ML workloads
-  - Rust for high-performance ML systems
-
+## Current Focus
+- Building end-to-end ML/DL projects
+- Exploring computer vision and NLP applications
+- Deploying models using FastAPI and Django
+- Contributing to open-source projects
 
 ---
 
-
-## 📫 Let's Collaborate
-
-- 📧 Email: sangamsilwal2062@example.com
-- 💼 LinkedIn: [linkedin.com/in/sangam-silwal](https://www.linkedin.com/in/sangam-silwal)
-- 🐦 Twitter: [@sangam_silwal](https://twitter.com/sangam_silwal)
-- 🧑‍💻 GitHub: [github.com/sangam-silwal](https://github.com/sangam-silwal)
-
----
-
-
-
-_🔭 On a mission to bridge the gap between software engineering and machine learning_
+⭐️ From [SangamSilwal](https://github.com/SangamSilwal)
