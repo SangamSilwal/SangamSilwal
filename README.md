@@ -15,6 +15,7 @@ How to reach me: [sangamsilwal2062@gmail.com / sangambot360@gmail.com]
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-1E90FF?style=for-the-badge&logo=optuna&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
